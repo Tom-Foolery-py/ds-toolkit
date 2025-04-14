@@ -5,3 +5,9 @@ To have a scaffolder that generates the structure of a typical data science proj
 
 ## Pre-requisites
 Ensure both Python and Git are installed.
+
+### Usage
+
+```bash
+python -m ds_toolkit.cli init my_project --venv --git --notebook
+```
